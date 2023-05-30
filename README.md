@@ -7,3 +7,5 @@
 Core Message/Hypothesis: Creating a blockchain voting system to elect president of the CryptoKitties
 
 Motivation/Link to Fin tech: Existing paper based voting systems are inefficient and subject to manipulation.  The use of blockchain can address these issues.  CryptoKitties was extensively mentioned throughout the fin tech course.
+
+## Examples of Application
