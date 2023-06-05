@@ -11,5 +11,8 @@ Motivation/Link to Fin tech: Existing paper based voting systems are inefficient
 
 ## Usage Instructions
 
+Solidity code manages back-end voting process
+Front-end via streamlit
+Plyer for notifications
 
-## Examples of Application
+
